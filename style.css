@@ -1,0 +1,54 @@
+h1{
+
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+h2{
+
+    color: white;
+    width: 474px;
+}
+
+.titre > h2{
+
+    color: #00b39b;
+    margin-left: 55px;
+    width: 247px;
+}
+
+.section_1{
+
+    padding: 100px;
+}
+.button{
+
+    margin-left: 1140px; 
+    margin-top: -99px;
+
+}
+.titre_2 > h2 {
+
+    color:#00b39b;
+}
+
+.bloc_2_1{
+
+    border: 2px solid white;
+    width: 226px;
+    height: 198px;
+    background-color: white;
+}
+.image{
+
+    margin-left: 89px;
+    margin-top: 26px;
+}
+.btn_pays{
+
+    margin-top: 25px;
+}
+.sign_btn{
+
+    margin-left: 17px;
+
+}
